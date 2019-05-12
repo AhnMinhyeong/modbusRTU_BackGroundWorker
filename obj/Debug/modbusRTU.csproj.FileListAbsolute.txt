@@ -1,0 +1,10 @@
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.csprojAssemblyReference.cache
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.MainForm.resources
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.Properties.Resources.resources
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.csproj.GenerateResource.cache
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.csproj.CoreCompileInputs.cache
+D:\My_project\C#\Tutorial\190512\modbusRTU\bin\Debug\modbusRTU.exe.config
+D:\My_project\C#\Tutorial\190512\modbusRTU\bin\Debug\modbusRTU.exe
+D:\My_project\C#\Tutorial\190512\modbusRTU\bin\Debug\modbusRTU.pdb
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.exe
+D:\My_project\C#\Tutorial\190512\modbusRTU\obj\Debug\modbusRTU.pdb
